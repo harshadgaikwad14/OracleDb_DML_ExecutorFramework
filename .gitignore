@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+.pmd
+.ruleset
+data
+bin
+target
+*.log
+*velocity.log.*
